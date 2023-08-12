@@ -1,3 +1,12 @@
+## 重要说明
+这是我个人学习arco design pro  2.8.0
+nextjs 12.0.4
+官方地址：
+https://arco.design/
+官方仓库
+https://github.com/arco-design/arco-design-pro
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
